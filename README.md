@@ -19,7 +19,7 @@ I'm a Web Penetration Tester And Learning Bug Hunting And Reverse Engineering.
  
  **Tools**
  
- <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>
+ <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>|<img alt="Fedora" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"/>|<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|
  |--|--|--|--|--|
  
  **Designing and Photo Editing**
